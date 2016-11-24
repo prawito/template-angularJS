@@ -1,0 +1,18 @@
+* {
+  font-family: arial; }
+
+h2 {
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-align: center; }
+
+h4, i {
+  color: blue; }
+
+.button-center {
+  width: 100%;
+  text-align: center;
+  margin: 30px auto; }
+
+/*# sourceMappingURL=master.css.map */
